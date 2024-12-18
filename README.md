@@ -18,5 +18,3 @@
 - **Multimodal Text Tabular Mixed**: [Open Here](https://colab.research.google.com/drive/1FLeZuqNvvca0opgawmAOMv5YBHOzv66F?usp=sharing)  
 - **Forecasting Chronos**: [Open Here](https://colab.research.google.com/drive/1RkAdIzpFA4hm1Tv0EccqAuvFbXjqAaNb?usp=sharing)  
 - **Forecasting In Depth**: [Open Here](https://colab.research.google.com/drive/17KqGneWZ-fBnK74yZqkMKydkYehh6ldR?usp=sharing)  
-
----
